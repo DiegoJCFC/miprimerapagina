@@ -1,6 +1,7 @@
 body{
     background-color: lightblue;
     color: darkblue;
+    margin: 0px;
 }
 
 h1{
@@ -165,6 +166,7 @@ a:hover{
     color: white;
     justify-content: center;
     background-color: rgba(20,20,20,0.8);
+    font-size: 10px;
 }
 
 .noir{
@@ -174,4 +176,8 @@ a:hover{
 .greeting{
     text-align: center;
     color: firebrick;
+}
+
+.punto{
+    list-style-type: circle;
 }
